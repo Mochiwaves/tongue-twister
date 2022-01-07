@@ -3,3 +3,5 @@ This code is design to create a random password by providing the user character 
 It also makes the user pick how long the password is going to be.
 
 # Preview
+
+If you want to give it a try go ahead press [here](
