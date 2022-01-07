@@ -4,4 +4,4 @@ It also makes the user pick how long the password is going to be.
 
 # Preview
 
-If you want to give it a try go ahead press [here](
+If you want to give it a try go ahead press [here](https://mochiwaves.github.io/tongue-twister/)
